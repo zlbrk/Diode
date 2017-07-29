@@ -1,4 +1,4 @@
-DDBSE means Drift-Diffusion Basic Semiconductor Equations.
+Drift-Diffusion Basic Semiconductor Equations for Diode simulation.
 
 The main task for this project is to implement simple simulator tool
 for basic semiconductor equations in drift-diffusion approximation.
